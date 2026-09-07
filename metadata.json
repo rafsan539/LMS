@@ -1,0 +1,7 @@
+{
+  "name": "Library Management System",
+  "description": "Comprehensive library management system tailored for Dinajpur Polytechnic and technical institutes, featuring BTEB syllabus tracking, student roll/registration management, circulation, overdue fine receipts, and direct member email notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
