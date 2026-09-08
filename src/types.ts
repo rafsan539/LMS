@@ -52,7 +52,7 @@ export interface Member {
   maxAllowedBorrows: number;
   avatarUrl?: string;
   // Polytechnic specific attributes
-  technology?: string; // e.g. "Computer Technology (CMT)", "Civil Technology (CT)", "Electrical Technology (ET)", "Mechanical Technology (MT)"
+  technology?: string; // e.g. "Computer Technology (CST)", "Civil Technology (CT)", "Electrical Technology (ET)", "Mechanical Technology (MT)"
   rollNo?: string; // Board Roll or Class Roll (e.g. "614201")
   regNo?: string; // BTEB Registration Number (e.g. "1502145896")
   semester?: string; // "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th"
